@@ -7,6 +7,7 @@ execute:
 only_build_toc_files: true
 
 html:
+  favicon :  "book/images/OpenGlassroom.ico"
   baseurl :  "https://oit.tudelft.nl/glass-reuse-open-database/" #Replace this with your own URL
 
 sphinx:
@@ -19,7 +20,7 @@ sphinx:
     html_theme_options:
       logo:
         text: "Open GLASSroom - Glass Reuse Open Database"
-        logo: book/images/OpenGlassroom_logo.png
+        image_light: book/images/OpenGlassroom_logo.png
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
