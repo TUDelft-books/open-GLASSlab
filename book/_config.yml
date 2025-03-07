@@ -1,6 +1,6 @@
 Title: TU Delft OIT GitHub Template
 author: Author from Delft University of Technology, built with <a href="https://teachbooks.io">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a> #add your own name here
-
+logo: book/images/OpenGlassroom_logo.png
 execute:
   execute_notebooks: "off"
 
@@ -17,7 +17,6 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/*.md","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
     html_theme_options:
-      logo: "book/images/OpenGlassroom_logo.png"
       text: "Open GLASSroom - Glass Reuse Open Database"
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
       path_to_docs: "book"
