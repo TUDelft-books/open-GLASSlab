@@ -15,7 +15,7 @@ sphinx:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-      exclude_patterns: ["**/*.md","**/*.png","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
+      exclude_patterns: ["**/*.md","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
     html_theme_options:
       logo: "book/images/OpenGlassroom_logo.png"
       text: "Open GLASSroom - Glass Reuse Open Database"
