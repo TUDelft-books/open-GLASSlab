@@ -15,9 +15,10 @@ sphinx:
     - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-      exclude_patterns: ["**/*.md","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
+      exclude_patterns: ["**/*.md","**/*.png","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
     html_theme_options:
-      text: "Open GLASSroom - Glass Reuse Open Database"
+      logo:
+        text: "Open GLASSroom - Glass Reuse Open Database"
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
