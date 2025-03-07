@@ -17,7 +17,7 @@ sphinx:
       use_thebe_lite: true
       exclude_patterns: ["**/*.md","**/*.png","**/*.svg","**/*.jpeg","**/*.png","**/*.html"]
     html_theme_options:
-      logo: "images/OpenGlassroom_logo.png"
+      logo: "book/images/OpenGlassroom_logo.png"
       text: "Open GLASSroom - Glass Reuse Open Database"
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
       path_to_docs: "book"
