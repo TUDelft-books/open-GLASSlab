@@ -7,7 +7,7 @@ execute:
 only_build_toc_files: true
 
 html:
-  favicon :  "book/images/OpenGlassroom.ico"
+  favicon :  "figures/OpenGlassroom.ico"
   baseurl :  "https://oit.tudelft.nl/glass-reuse-open-database/" #Replace this with your own URL
 
 sphinx:
@@ -20,7 +20,7 @@ sphinx:
     html_theme_options:
       logo:
         text: "Open GLASSroom - Glass Reuse Open Database"
-        image_light: book/images/OpenGlassroom_logo.png
+        image_light: OpenGlassroom_logo.png
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
@@ -31,7 +31,7 @@ sphinx:
         thebe: true
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
-    html_static_path: ["../pages/figures"] # add folders that contain files that need to be included, such as the location of the logo(s)
+    html_static_path: ["figures"] # add folders that contain files that need to be included, such as the location of the logo(s)
     mathjax3_config:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
