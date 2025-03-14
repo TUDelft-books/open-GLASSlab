@@ -8,7 +8,6 @@ only_build_toc_files: true
 
 html:
   favicon :  "figures/OpenGlassroom.ico"
-  logo    :  "figures/OpenGlassroom_logo.png"
   baseurl :  "https://oit.tudelft.nl/glass-reuse-open-database/" #Replace this with your own URL
 
 sphinx:
@@ -33,7 +32,7 @@ sphinx:
         thebe: true
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
-    html_static_path: ["figures"] # add folders that contain files that need to be included, such as the location of the logo(s)
+    html_static_path: ["../book/figures"] # add folders that contain files that need to be included, such as the location of the logo(s)
     mathjax3_config:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
