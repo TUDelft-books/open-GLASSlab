@@ -1,18 +1,3 @@
-/* LOGO SIZE - Multiple selector attempts to ensure it works */
-.navbar-brand-box img,
-.navbar-brand img,
-.navbar-brand-box .logo-image,
-.navbar-brand .logo-image,
-img[src*="OpenGLASSlab_outlined_RGB.png"],
-header .logo-image,
-.navbar .navbar-brand img {
-  max-height: 120px !important; /* Make even bigger for visibility */
-  height: auto !important;
-  width: auto !important;
-  min-height: 120px !important; /* Ensure minimum size */
-}
-
-
 /* LOGO TEXT - Multiple selector attempts to ensure it works */
  /* Target the specific title class shown in the HTML */
  .title.logo_title, 
