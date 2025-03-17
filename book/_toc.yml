@@ -8,5 +8,5 @@ parts:
     - file: pages/method_2.ipynb
     - file: pages/method_3.ipynb
     - file: references.md
-    - file: changelog.md
+    #- file: changelog.md Uncomment when new methods have been added. 
     - file: credits.md
