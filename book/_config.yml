@@ -33,7 +33,7 @@ sphinx:
         thebe: true
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
-    html_static_path: ["_static", "figures"]  
+    html_static_path: ["figures"]  
      html_css_files: ["custom.css"]
     mathjax3_config:
       chtml: {
