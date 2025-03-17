@@ -3,7 +3,7 @@
 .navbar-brand img,
 .navbar-brand-box .logo-image,
 .navbar-brand .logo-image,
-img[src*="OpenGLASSlab_outlined_RGB.svg"],
+img[src*="OpenGLASSlab_outlined_RGB.png"],
 header .logo-image,
 .navbar .navbar-brand img {
   max-height: 120px !important; /* Make even bigger for visibility */
