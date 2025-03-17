@@ -19,7 +19,7 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       logo:
-        text: Open GLASSlab: Interactive Strength Analysis Handbook
+        text: Open GLASSlab - Interactive Strength Analysis Handbook
         image_light: OpenGLASSlab_outlined_RGB.svg
         image_dark : OpenGLASSlab_outlined_RGB.svg
       repository_url: "https://github.com/TUDelft-books/glass-reuse-open-database" #add your own repo URL here
