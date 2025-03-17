@@ -4,4 +4,4 @@
 # Contributors
 Jagoda Cupać PhD - [Jagoda.Cupac@tudelft.nl](mailto:Jagoda.Cupac@tudelft.nl) <br>
 Prof.dr.ir. Christian Louter - [Christian.Louter@tudelft.nl](mailto:Christian.Louter@tudelft.nl) <br>
-Georgi Nikolov - [gdnnikolov@tudelft.nl](mailto:gdnnikolov@tudelft.nl)
+Georgi Nikolov, BSc - [gdnnikolov@tudelft.nl](mailto:gdnnikolov@tudelft.nl)
