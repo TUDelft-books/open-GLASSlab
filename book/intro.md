@@ -1,5 +1,5 @@
 (intro)=
-# Welcome to the Open GLASSlab
+# Welcome to the Open GLASSlab!
 
 **Open GLASSlab** combines data sharing, research, and education in a collaborative space dedicated to the study and reuse of aged glass in construction. The main objective of Open GLASSlab is to support the circular use of glass by providing a central repository for strength data from across Europe, as well as an interactive **TeachBook** where users can learn and apply standardised post-processing methods. 
 
