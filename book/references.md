@@ -1,3 +1,15 @@
 # References
-:::{bibliography}
-:::
+- ASTM C1499-19. (2024). *Standard Test Method for Monotonic Equibiaxial Flexural Strength of Advanced Ceramics at Ambient Temperature*. ASTM. [Link](https://store.astm.org/c1499-19r24.html)
+- Cupać, J., Datsiou, K. C., & Louter, C. (2024). *Reuse potential of architectural glass: Experimental study on the strength of used window glazing*. Glass Structures and Engineering. [https://doi.org/10.1007/s40940-024-00267-y](https://doi.org/10.1007/s40940-024-00267-y)
+- Datsiou, K. C., & Overend, M. (2017). *Artificial ageing of glass with sand abrasion*. Construction and Building Materials, 142, 536–551. [https://doi.org/10.1016/j.conbuildmat.2017.03.094](https://doi.org/10.1016/j.conbuildmat.2017.03.094)
+- Datsiou, K.C., Overend, M. (2018). *Weibull parameter estimation and goodness-of-fit for glass strength data*. Structural Safety, 73, 29–41. [https://doi.org/10.1016/j.strusafe.2018.02.002](https://doi.org/10.1016/j.strusafe.2018.02.002)
+- EN 1288-1. (2000). *Glass in building—Determination of the bending strength of glass—Part 1: Fundamentals of testing glass*. CEN.
+- EN 1288-2. (2000). *Glass in building—Determination of the bending strength of glass—Part 2: Coaxial double ring test on flat specimens with large test surface areas*. CEN.
+- EN 1288-5. (2000). *Glass in building—Determination of the bending strength of glass—Part 5: Coaxial double ring test on flat specimens with small test surface areas*. CEN.
+- EN 12603. (2002). *Glass in building—Procedures for goodness of fit and confidence intervals for Weibull distributed glass strength data*. CEN.
+- Haldimann, M., Luible, A., & Overend, M. (2008). *Structural Use of Glass*. IABSE.
+- Overend, M., & Louter, C. (2015). *The effectiveness of resin-based repairs on the inert strength recovery of glass*. Construction and Building Materials, 85, 165–174. [https://doi.org/10.1016/j.conbuildmat.2015.03.072](https://doi.org/10.1016/j.conbuildmat.2015.03.072)
+- Rota, A., Zaccaria, M., & Fiorito, F. (2023). *Towards a quality protocol for enabling the reuse of post-consumer flat glass*. Glass Structures and Engineering, 8(2), 235–254. [https://doi.org/10.1007/s40940-023-00233-0](https://doi.org/10.1007/s40940-023-00233-0)
+- Teich, M., Scherer, C., Schuster, M., Brandenstein, M., & Elstner, M. (2024). *Reuse and remanufacturing of insulated glass units*. Glass Structures & Engineering, 9(3–4), 339–356. [https://doi.org/10.1007/s40940-024-00276-x](https://doi.org/10.1007/s40940-024-00276-x)
+- Veer, F., Overend, M., Sofokleous, I., & Noteboom, C. (2023). *A Novel Method for the Non-Destructive Assessment of Strength Degradation and Re-Use Potential of Weathered Float Glass From Facades: A Proof of Concept Study*. International Journal of Structural Glass and Advanced Materials Research, 7(1), 1–15. [https://doi.org/10.3844/sgamrsp.2023.1.15](https://doi.org/10.3844/sgamrsp.2023.1.15)
+- TeachBooks. *Your first teachbook using the GitHub template.* 2024. Retrieved December, 2024. **CC BY 4.0**. [![GitHub](https://img.shields.io/badge/GitHub-TeachBooks/template-blue?logo=github)](https://github.com/TeachBooks/template)  
