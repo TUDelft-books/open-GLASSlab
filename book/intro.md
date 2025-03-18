@@ -21,7 +21,7 @@ As the repository grows with contributions from a wide range of studies, it will
 
 In addition to the data repository, **Open GLASSlab** offers this interactive **TeachBook** that provides guidance on commonly used post-processing methods for glass strength data. The methods are shared through interactive Python scripts, allowing users to process their data directly within the **TeachBook**.
 
-You can use the click 🚀 `Live Code` button in the top right – to activate the interactive features in the browser. Alternatively, users can download the Python scripts using the download button on the top right to work with their data locally, customising them as needed. This feature ensures that users have the tools to analyse and interpret the data in a standardised and consistent manner.
+You can use the 🚀 `Live Code` button in the top right – to activate the interactive features in the browser. Alternatively, users can download the Python scripts using the download button on the top right to work with their data locally, customising them as needed. This feature ensures that users have the tools to analyse and interpret the data in a standardised and consistent manner.
 
 ## Future Outlook
 

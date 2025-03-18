@@ -3,7 +3,7 @@
 ### How to Cite This Book
 You can refer to this book as:  
 
-**Cupać, J., Louter, C., Nikolov, G., Schuster, M., Datsiou, K. C. (2025). _Open GLASSlab TeachBook_.**  
+**Cupać, J., Louter, C., Nikolov, G., Schuster, M., Datsiou, K. C. (2025). _Open GLASSlab – Interactive Strength Analysis Handbook_.**  
 <[https://oit.tudelft.nl/open-GLASSlab/](<https://oit.tudelft.nl/open-GLASSlab/>)>.Source files at [https://github.com/TUDelft-books/open-GLASSlab](<https://github.com/TUDelft-books/open-GLASSlab>)  
 
 ### Referencing Individual Chapters or Pages
@@ -30,7 +30,7 @@ For further information, please refer to the repository's **README file** or con
 
 
 ## About the Editors
-This book is edited by **Jagoda Cupać<sup>1</sup>, Christian Louter<sup>1</sup>, Miriam Schuster<sup>2</sup>,** and **Kyriaki Corinna Datsiou<sup>3</sup>**.  
+This book is edited by [**Jagoda Cupać<sup>1</sup>**](https://www.linkedin.com/in/jagoda-cupac/), [**Christian Louter<sup>1</sup>**](https://www.linkedin.com/in/christianlouter/), [**Miriam Schuster<sup>2</sup>**](https://www.linkedin.com/in/miriamschuster/), and [**Kyriaki Corinna Datsiou<sup>3</sup>**](https://www.linkedin.com/in/kyriaki-corinna-datsiou-b4340346/).  
 The Python scripts for **three Methods** have been created by [**Georgi Nikolov<sup>1</sup>**](https://www.linkedin.com/in/georgi-dimitrov-nikolov/). 
 
 <sup>1</sup> Department of Materials, Mechanics, Management & Design (3MD), Faculty of Civil Engineering and Geosciences, Delft University of Technology  
@@ -39,11 +39,13 @@ The Python scripts for **three Methods** have been created by [**Georgi Nikolov<
 
 <sup>3</sup> Centre for Engineering Research, School of Physics, Engineering and Computer Science, University of Hertfordshire  
 
-### Acknowledgements
- 
-Miriam Schuster (**TU Darmstadt**) is gratefully acknowledged for sharing a worked example of the application of the **Least Squares Regression Method**, which served as the foundation for the development of **Method 1** in this TeachBook.  
+## Funding Disclaimer
 
-Additionally, Kyriaki Corinna Datsiou (**University of Hertfordshire**) is thanked for her valuable advice on the creation of the TeachBook and for her support in the formulation of **Method 2: Weighted Least Squares Regression**.  
+Open GLASSlab has been created as part of the Open Education project Open GLASSroom.  
+
+The creation of these resources has been (partially) funded by the ERASMUS+ grant program of the European Union under grant no. 2022-1-DE01-KA220-HED-000089750. Neither the European Commission nor the project’s national funding agency DAAD are responsible for the content or liable for any losses or damage resulting from the use of these resources.
+
+<img src="figures/EU-funding-logo.jpg" alt="Description" width="300">  
 
 ## License  
 
