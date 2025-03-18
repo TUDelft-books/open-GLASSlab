@@ -10,7 +10,7 @@ You can refer to this book as:
 
 You can refer to individual chapters or pages within this book as:
 
-<**Title of Chapter or Page**>**. In Cupać, J., Louter, C., Nikolov, G., Schuster, M., Datsiou, K. C. (2025). _Open GLASSlab TeachBook_.**  
+<**Title of Chapter or Page**>**. In Cupać, J., Louter, C., Nikolov, G., Schuster, M., Datsiou, K. C. (2025). _Open GLASSlab – Interactive Strength Analysis Handbook_.**  
 [Specific Page on https://oit.tudelft.nl/open-GLASSlab/](<https://oit.tudelft.nl/open-GLASSlab/>)
 
 ## Content Updates and Versioning
