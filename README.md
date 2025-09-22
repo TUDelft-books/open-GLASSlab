@@ -7,4 +7,4 @@ This platform allows users to analyse and interpret aged glass data in a consist
 # Contributors
 Jagoda Cupać PhD - [Jagoda.Cupac@tudelft.nl](mailto:Jagoda.Cupac@tudelft.nl) <br>
 Prof.dr.ir. Christian Louter - [Christian.Louter@tudelft.nl](mailto:Christian.Louter@tudelft.nl) <br>
-Georgi Nikolov, MSc - [gdnnikolov@tudelft.nl](mailto:gdnnikolov@tudelft.nl)
+ir. Georgi Nikolov, MSc - [gdnnikolov@tudelft.nl](mailto:gdnnikolov@tudelft.nl)
