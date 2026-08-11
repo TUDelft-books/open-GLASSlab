@@ -5,6 +5,7 @@ scipy
 numpy
 pandas
 matplotlib==3.9.2
+matplotlib-inline==0.1.7
 ipywidgets
 sphinx-image-inverter
 download_link_replacer
