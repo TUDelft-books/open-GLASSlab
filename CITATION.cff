@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this TeachBook, please cite it as below."
+title: "Open GLASSlab – Interactive Strength Analysis Handbook"
+type: software
+authors:
+  - family-names: "Cupać"
+    given-names: "Jagoda"
+    affiliation: "Delft University of Technology"
+  - family-names: "Louter"
+    given-names: "Christian"
+    affiliation: "Delft University of Technology"
+  - family-names: "Nikolov"
+    given-names: "Georgi"
+    affiliation: "Delft University of Technology"
+  - family-names: "Schuster"
+    given-names: "Miriam"
+    affiliation: "Technische Universität Darmstadt"
+  - family-names: "Datsiou"
+    given-names: "Kyriaki Corinna"
+    affiliation: "University of Hertfordshire"
+
+license: CC-BY-4.0
+repository-code: "https://github.com/TUDelft-books/open-GLASSlab"
+url: "https://oit.tudelft.nl/open-GLASSlab/"
+keywords:
+  - glass
+  - circular economy
+  - structural engineering
+  - TeachBook
