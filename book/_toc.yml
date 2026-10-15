@@ -7,6 +7,7 @@ parts:
     - file: pages/method_1.ipynb
     - file: pages/method_2.ipynb
     - file: pages/method_3.ipynb
+    - file: pages/data_validation.ipynb
     - file: references.md
     #- file: changelog.md Uncomment when new methods have been added. 
     - file: credits.md
