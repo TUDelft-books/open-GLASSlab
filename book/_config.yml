@@ -25,7 +25,7 @@ sphinx:
         image_dark : OpenGLASSlab_outlined_RGB.png
       repository_url: "https://github.com/TUDelft-books/open-GLASSlab" #add your own repo URL here
       path_to_docs: "book"
-      repository_branch: "main"
+      repository_branch: "data-validation"
       use_edit_page_button: true
       use_repository_button: true
       use_issues_button : true
