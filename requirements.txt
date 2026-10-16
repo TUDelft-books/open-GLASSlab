@@ -8,6 +8,15 @@ matplotlib==3.9.2
 matplotlib-inline==0.1.7
 ipywidgets
 sphinx-image-inverter
+# download_link_replacer depends on a PyPI package literally named "importlib"
+# (an abandoned Python 2.7 backport with no wheel, only broken sdists). Modern
+# setuptools cannot build it on any current Python version: the sdist's own
+# source folder is named "importlib", which shadows the stdlib module during
+# its own build, crashing setuptools' _distutils_hack. download_link_replacer
+# never actually uses that PyPI package (it just uses the real stdlib
+# importlib), so this empty placeholder wheel (see vendor/importlib-1.0.4-py3-none-any.whl)
+# satisfies the dependency without installing anything that could shadow it.
+https://raw.githubusercontent.com/TUDelft-books/open-GLASSlab/data-validation/vendor/importlib-1.0.4-py3-none-any.whl
 download_link_replacer
 sphinx-exercise
 sphinx-tudelft-theme
@@ -19,3 +28,4 @@ pydantic==2.12.5
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
 sphinx-thebe ~= 0.9.9
+
